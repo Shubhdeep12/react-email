@@ -34,11 +34,11 @@
     "access": "public"
   },
   "peerDependencies": {
-    "react": "^18.0 || ^19.0 || ^19.0.0-rc"
+    "react": "catalog:peer"
   },
   "devDependencies": {
     "@react-email/render": "workspace:*",
     "tsconfig": "workspace:*",
-    "typescript": "5.8.3"
+    "typescript": "catalog:"
   }
 }
