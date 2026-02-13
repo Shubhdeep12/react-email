@@ -26,13 +26,13 @@
     ".next/**/*"
   ],
   "dependencies": {
-    "esbuild": "0.25.10",
+    "esbuild": "catalog:",
     "next": "catalog:"
   },
   "devDependencies": {
     "@babel/core": "7.26.10",
-    "@babel/parser": "7.27.0",
-    "@babel/traverse": "7.27.0",
+    "@babel/parser": "catalog:",
+    "@babel/traverse": "catalog:",
     "@lottiefiles/dotlottie-react": "0.17.13",
     "@radix-ui/colors": "3.0.0",
     "@radix-ui/react-collapsible": "1.1.12",
@@ -71,11 +71,11 @@
     "colorjs.io": "0.5.2",
     "cross-env": "^10.1.0",
     "framer-motion": "12.23.22",
-    "log-symbols": "4.1.0",
+    "log-symbols": "catalog:",
     "module-punycode": "npm:punycode@2.3.1",
     "next-safe-action": "8.0.11",
     "node-html-parser": "7.0.2",
-    "ora": "5.4.1",
+    "ora": "catalog:",
     "postcss": "8.5.6",
     "pretty-bytes": "6.1.1",
     "prism-react-renderer": "2.4.1",

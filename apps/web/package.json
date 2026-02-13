@@ -12,9 +12,9 @@
     "components:build": "email-dev build -d ./components"
   },
   "dependencies": {
-    "@babel/parser": "7.27.0",
+    "@babel/parser": "catalog:",
     "@babel/preset-typescript": "7.27.0",
-    "@babel/traverse": "7.27.0",
+    "@babel/traverse": "catalog:",
     "@radix-ui/react-popover": "1.1.15",
     "@react-email/components": "workspace:*",
     "@react-email/render": "workspace:*",

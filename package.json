@@ -44,7 +44,10 @@
       "react": "catalog:",
       "react-dom": "catalog:",
       "@types/react": "catalog:",
-      "@types/react-dom": "catalog:"
+      "@types/react-dom": "catalog:",
+      "@babel/parser": "catalog:",
+      "@babel/traverse": "catalog:",
+      "@babel/types": "catalog:"
     },
     "ignoredBuiltDependencies": [
       "sharp"
